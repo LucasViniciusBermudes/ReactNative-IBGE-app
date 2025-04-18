@@ -8,7 +8,7 @@ Foi necessário desenvolver um aplicativo para realizar a coleta dos dados do ce
 
 No projeto foram adicionadas as seguintes funcionalidades:
 
-## Funcionalidades
+### Funcionalidades
 • Formulário para inserção dos dados do senso;
 • Banco de dados local para armazenamento dos dados coletados;
 • Interface com ferramenta de busca para filtrar e mostrar os dados armazenados.
